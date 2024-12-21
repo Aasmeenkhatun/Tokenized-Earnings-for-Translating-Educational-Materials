@@ -7,6 +7,8 @@ The Learn-to-Earn Streaming Platform is a decentralized application (dApp) desig
 
 ### Contract Address
 0x8b4618538402542e38801DE5E7a0215532704043
+![image](https://github.com/user-attachments/assets/2f1bfd2c-a824-496a-a4de-724692231a4a)
+
 
 ### Key Features
 1. **Token Rewards:** Users earn LTE tokens for completing educational tasks or contributing by translating materials.
@@ -21,5 +23,6 @@ The Learn-to-Earn Streaming Platform is a decentralized application (dApp) desig
 - Development of staking and liquidity pool features for LTE tokens.
 
 ---
+
 
 
